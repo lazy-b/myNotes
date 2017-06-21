@@ -1,0 +1,92 @@
+==============Java相关==========================
+
+normalize重置CSS
+CSS重置文件：https://necolas.github.io/normalize.css/7.0.0/normalize.css
+前端一些通用库文件地址：F:\公共库\common
+
+==============Java相关==========================
+
+==============Java相关==========================
+
+JDK版本：jdk1.7.0_80
+
+JRE版本：jre7
+
+Maven版本 ：apache-maven-3.3.9
+Maven本地仓库地址：F:\Maven\maven-dependcies
+Maven镜像仓库：阿里云仓库
+
+Tomcat版本：apache-tomcat-7.0.67
+Tomcat端口：8080
+修改Tomcat服务器默认端口号：修改conf/server.xml文件中<Connector connectionTimeout="20000" port="8080" protocol="HTTP/1.1" redirectPort="8443"/>
+
+Eclipse版本：eclipse Release 4.5.0
+Eclipse地址：D:\Java\eclipse
+Eclipse工作空间：D:\JAVAworkspace
+
+MySQL安装时间：2017.04.24
+MySQL安装源文件：F:\郎恒项目文件\软件\mysql-5.7.18-winx64
+MySQL版本5.7.18
+MySQL管理员用户名：'root'@'localhost'
+MySQL管理员密码：123456
+MySQL端口：3306
+MySQL安装地址：D:\Java\mysql-5.7.18-winx64
+MySQL日志存放（第一次安装时初始密码可以在日志中查找）：D:\Java\mysql-5.7.18-winx64\data\Lenovo-yang.err
+
+Adobe Dreamweaver版本：CS6
+Adobe Dreamweaver CS6安装地址：D:\dreamweavercs6
+
+Navicat for MySQL安装时间：2017.04.24
+Navicat for MySQL安装源文件：F:\郎恒项目文件\软件\navicat
+Navicat for MySQL版本：未知
+Navicat for MySQL安装地址：D:\Java\Navicat for MySQL
+
+Mozilla Firefox安装时间：2017.04.26
+Mozilla Firefox安装源文件：F:\郎恒项目文件\软件\Mozilla Firefox 64位_53.0.0.6312_bd
+Mozilla Firefox版本：53
+Mozilla Firefox安装地址：D:\Java\Mozilla Firefox
+
+Git-2.8.1-64-bit安装时间：2017.05.05
+Git-2.8.1-64-bit安装源文件：F:\郎恒项目文件\软件\Git-2.8.1-64-bit
+Git-2.8.1-64-bit版本：2.8.1-64-bit
+Git-2.8.1-64-bit安装地址：D:\Java\Git
+配置：
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+Git仓库位置：D:\Java\repository
+Git的ssh位置：C:\Users\yang\.ssh
+
+GitHub Desktop安装时间：2017.05.28
+GitHub Desktop安装源文件：F:\郎恒项目文件\软件\github客户端\GitHubDesktopSetup.exe
+GitHub Desktop安装版本：未知
+GitHub Desktop安装地址：C:\Users\yang\AppData\Local\GitHubDesktop\GitHub Desktop.exe
+
+==============Java相关==========================
+
+==============个人安装==========================
+
+==============个人安装==========================
+
+==============帮人安装==========================
+
+Illustrator CS6_Lite下载时间：2017.04.25（李涛）
+Illustrator CS6_Lite安装源文件：F:\软件\Illustrator_CS5_Lite\AdobeIllustrator_16.0.0.682.rar
+软件安装后卸载失败。
+
+==============帮人安装==========================
+
+==============前端资料==========================
+
+1、layui前端框架：国产前端框架
+特点：简洁
+layui使用说明：http://www.layui.com/doc/
+==============前端资料==========================
+
+==============要看的书==========================
+《JavaScript权威指南》
+
+==============要看的书==========================
+
+
+
+
