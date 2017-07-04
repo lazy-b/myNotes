@@ -61,6 +61,21 @@ GitHub Desktop安装源文件：F:\郎恒项目文件\软件\github客户端\GitHubDesktopSetup.e
 GitHub Desktop安装版本：未知
 GitHub Desktop安装地址：C:\Users\yang\AppData\Local\GitHubDesktop\GitHub Desktop.exe
 
+Tor 安装时间：2017.07.04
+Tor 安装源文件：F:\软件\torbrowser-install-7.0.2_en-US.exe
+Tor 安装版本：未知
+Tor 安装地址：D:\torttt\Tor Browser
+
+Fiddler 2安装时间：2017.07.04
+Fiddler 2安装源文件：F:\郎恒项目文件\软件\fiddler\fiddlersetup.exe
+Fiddler 2安装版本：未知
+Fiddler 2安装地址：C:\Program Files (x86)\Fiddler2
+
+chrome安装时间：2017.07.04
+Fiddler 2安装源文件：F:\软件\ChromeSetup.exe
+Fiddler 2安装版本：59.0.3071.115
+Fiddler 2安装地址：C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+
 ==============Java相关==========================
 
 ==============个人安装==========================
